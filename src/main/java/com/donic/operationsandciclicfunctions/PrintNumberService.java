@@ -8,6 +8,7 @@ public class PrintNumberService {
             System.out.println(a + ", ");
             //a = a -1
             //a -= 1
+            a--;
         }
 
         //Valoarea lui a dupa ce iese din ciclul while este 0
